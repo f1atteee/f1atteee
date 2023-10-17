@@ -10,7 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=f1atteee&theme=vue-dark&hide_border=false)<br/>
 
 ## 🔋 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=f1atteee&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=f1atteee&theme=vue-dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=f1atteee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
