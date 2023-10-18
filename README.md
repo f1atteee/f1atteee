@@ -8,7 +8,7 @@
 [![gmail](https://img.shields.io/badge/gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarrkravets@gmail.com)
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MYSQL](https://img.shields.io/badge/mysql-B0C4DE?style=for-the-badge&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/postgresql-B0E0E6?style=for-the-badge&logo=postgreSQL) ![HTML/CSS](https://img.shields.io/badge/html/css-fa932d?style=for-the-badge&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MYSQL](https://img.shields.io/badge/mysql-B0C4DE?style=for-the-badge&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/postgresql-B0E0E6?style=for-the-badge&logo=postgreSQL) ![HTML/CSS](https://img.shields.io/badge/html/css-fa932d?style=for-the-badge&logoColor=white) ![GIT](https://img.shields.io/badge/git-3e2c00?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=f1atteee&theme=vue-dark&hide_border=false)<br/>
 
