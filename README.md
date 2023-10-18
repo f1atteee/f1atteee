@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-kravets-086812230/)
-[![instargram](https://img.shields.io/badge/instargram-962fbf?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naz_kravets?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
+[![instargram](https://img.shields.io/badge/instagram-962fbf?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naz_kravets?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
 [![telegram](https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/direector)
 [![gmail](https://img.shields.io/badge/gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarrkravets@gmail.com)
 
