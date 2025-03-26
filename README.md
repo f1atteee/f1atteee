@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0101DF?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nazar-kravets-086812230) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0101DF?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kravetsnazar/) 
 [![Medium](https://img.shields.io/badge/Medium-2CA5E0?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@https://medium.com/@nazarrkravets)
 
 # Technologies stack
